@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Suman Bar</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+
+<img align="right" alt="coding" width="400" src ="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanbar721232&label=Profile%20views&color=0e75b6&style=flat" alt="sumanbar721232" /> </p>
+
 # 💫 About Me:
 🌱 I’m currently learning **Spring Boot, MERN Stack, Git, Gitlab etc.**<br> <br> - 👨‍💻 All of my projects are available at [https://sumanbar721232.github.io/My_Web_Portfolio/](https://sumanbar721232.github.io/My_Web_Portfolio/)<br> <br> - 💬 Ask me about **C, Java, SDLC, Cloud Computing etc.**<br> <br> - 📫 How to reach me **sumanbar503@gmail.com**<br> <br> - 📄 Know about my experiences [https://drive.google.com/file/d/1ypaGDxINTbehvYsb8iZBT9IO_1WMAVVB/view?usp=sharing](https://drive.google.com/file/d/1ypaGDxINTbehvYsb8iZBT9IO_1WMAVVB/view?usp=sharing)
 
