@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Bar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Passionate Software Developer From India</h3>
 
 <img align="right" alt="coding" width="400" src ="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
 
